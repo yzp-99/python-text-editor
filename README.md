@@ -1,2 +1,2 @@
 # python-text-editor
-一个基于python的tkinter库开发的文本编辑器
+A simple text editor seen by youtobe, based on python and tkinter.
